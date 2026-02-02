@@ -1,1 +1,1 @@
-# LinguistAgent
+This is the official repo of LinguistAgent, a multi-model agentic platform for automated linguistic tasks using different LLM strategies (Prompt Engineering, RAG, Fine-tuning).
